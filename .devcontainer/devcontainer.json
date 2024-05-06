@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "experience-primer-copilot-ViperXZU",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
